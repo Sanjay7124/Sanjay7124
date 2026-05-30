@@ -15,25 +15,11 @@
 - 🎓 Graduate **B.Tech CSE (AI Specialization)** student at Dr. M.G.R. Educational and Research Institute, Chennai
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
 - 🔭 Currently working on real-world AI and computer vision projects
-- 🌱 Learning **UI/UX Design, AI and AI tools, IoT and Wearable Technology**
+- 🌱 Learning **AI and AI tools, UI/UX Design, IoT and Wearable Technology**
 - 💡 I love turning raw data into interactive dashboards and intelligent systems
 - 🗣️ Languages: **English** & **Tamil**
-- 📫 Reach me at **itzmesanjay74@gmail.com or https://www.linkedin.com/in/sanjay-k-79a681385/**
 
 <br clear="right"/>
-
----
-## 📬 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjay7124-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay7124)
-[![Gmail](https://img.shields.io/badge/Gmail-itzmesanjay74@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:itzmesanjay74@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sanjay7124-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjay7124)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sanjay7124&color=70a5fd&style=flat-square&label=Profile+Views)
-
-</div>
 
 ---
 ## 🛠️ Tech Stack & Tools
@@ -61,18 +47,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Status |
-|:-------|:------------|:-----|:------|
-| 🎓 B.Tech – CSE (AI Specialization) | Dr. M.G.R. Educational and Research Institute, Chennai | 2022 – 2026 | Completed |
-
-</div>
-
----
-
 ## 💼 Projects
 
 <div align="center">
@@ -81,6 +55,17 @@
 |:--------|:------|:-----------|
 | [🔭 Real-Time Object Measurement](https://github.com/sanjay7124) | Python, OpenCV | Automated system to measure length & width of physical objects or 2D canvases using a webcam; designed for designers needing quick, accurate real-world measurements |
 | [🤖 AI-Optimized Production Data Analyzer](https://github.com/sanjay7124) | Python, Scikit-learn, Streamlit | Scalable zero-config AI framework processing **50,000+ records**; auto-translates raw data streams into interactive flowcharts and intelligent KPI dashboards, replacing expensive BI platforms |
+
+</div>
+
+---
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Status |
+|:-------|:------------|:-----|:------|
+| 🎓 B.Tech – CSE (AI Specialization) | Dr. M.G.R. Educational and Research Institute, Chennai | 2022 – 2026 | Completed |
 
 </div>
 
@@ -123,6 +108,19 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay7124&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+## 📬 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjay7124-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay7124)
+[![Gmail](https://img.shields.io/badge/Gmail-itzmesanjay74@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:itzmesanjay74@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sanjay7124-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjay7124)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanjay7124&color=70a5fd&style=flat-square&label=Profile+Views)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
