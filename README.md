@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20CS%20Engineer%20%7C%20Building%20Intelligent%20Systems%20with%20Python%20%26%20GenAI&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay%20K&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20CS%20Engineer%20%7C%20Building%20Intelligent%20Systems%20with%20Python%20%26%20GenAI&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <h2>👋 Hi there, I'm Sanjay K</h2>
@@ -95,14 +95,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay7124&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -111,6 +103,13 @@
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay7124&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
 ## 📬 Connect with Me
 
 <div align="center">
@@ -122,5 +121,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjay7124&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
