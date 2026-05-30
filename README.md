@@ -20,7 +20,6 @@
 
 <br clear="right"/>
 
-
 ## 🛠️ Tech Stack & Tools
 
 **Languages**
@@ -45,30 +44,52 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+---
 
 ## 💼 Projects
 
+### 🔭 Real-Time Object Measurement
+
+<img align="right" width="260" src="https://giphy.com/gifs/artists-on-tumblr-foxadhd-MJXyZFr2cf8vm"/>
+
+> **Automated sizing system for designers using a webcam and computer vision.**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+- 📐 Measures the **length & width** of physical objects or 2D canvases in real time
+- 📷 Uses a **webcam feed** with Python-based image processing via OpenCV
+- 🎯 Purpose-built for **designers** who need fast, accurate real-world measurements
+- ⚡ Eliminates the need for manual tools — point, detect, measure
+
+<br clear="right"/>
+
+---
+
+### 🤖 AI-Optimized Production Data Analyzer
+
+<img align="right" width="260" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
+
+> **Scalable zero-config AI framework that replaces expensive BI platforms.**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+- 📊 Processes up to **50,000+ records** with a robust ML pipeline
+- 🔄 Auto-translates raw data streams into **interactive flowcharts & KPI dashboards**
+- 🧠 Zero configuration needed — designed for **non-technical business users**
+- 💰 Replaces costly business intelligence platforms with an open, AI-driven solution
+
+<br clear="right"/>
+
+---
+
+## 📈 Activity Graph
+
 <div align="center">
-
-| &nbsp; | Project | Tech Stack | Key Highlights |
-|:------:|:--------|:-----------|:---------------|
-| 🔭 | **[Real-Time Object Measurement](https://github.com/sanjay7124)** | Python · OpenCV | Automated measurement of length & width of physical objects or 2D canvases via webcam; purpose-built for designers needing fast, accurate real-world sizing |
-| 🤖 | **[AI-Optimized Production Data Analyzer](https://github.com/sanjay7124)** | Python · Scikit-learn · Streamlit | Zero-config AI framework capable of processing **50,000+ records**; converts raw data streams into interactive flowcharts and KPI dashboards, replacing costly BI platforms |
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay7124&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
-
-
-## 🎓 Education
-
-<div align="center">
-
-| &nbsp; | Degree | Institution | Period | Status |
-|:------:|:-------|:------------|:------:|:------:|
-| 🎓 | B.Tech – Computer Science Engineering *(AI Specialization)* | Dr. M.G.R. Educational and Research Institute, Chennai | 2022 – 2026 | **Completed** |
-| 📚 | Senior Secondary | Sri Ram Dayal Khemka Vivekananda Vidyalaya Junior College, Chennai | 2020 – 2022 | **Completed** |
-
-</div>
-
 
 ## 📬 Connect with Me
 
@@ -79,10 +100,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-sanjay7124-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjay7124)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjay7124&color=70a5fd&style=flat-square&label=Profile+Views)
+
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay7124&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
