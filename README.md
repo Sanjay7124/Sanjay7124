@@ -12,13 +12,13 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 Fourth-year **B.Tech CSE (AI Specialization)** student at Dr. M.G.R. Educational and Research Institute, Chennai
+- 🎓 Graduate **B.Tech CSE (AI Specialization)** student at Dr. M.G.R. Educational and Research Institute, Chennai
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
 - 🔭 Currently working on real-world AI and computer vision projects
-- 🌱 Learning **UI/UX Design, IoT, and Wearable Technology**
+- 🌱 Learning **UI/UX Design, AI and AI tools, IoT and Wearable Technology**
 - 💡 I love turning raw data into interactive dashboards and intelligent systems
 - 🗣️ Languages: **English** & **Tamil**
-- 📫 Reach me at **itzmesanjay74@gmail.com**
+- 📫 Reach me at **itzmesanjay74@gmail.com or https://www.linkedin.com/in/sanjay-k-79a681385/**
 
 <br clear="right"/>
 
@@ -106,8 +106,7 @@
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:-----|:------|
-| 🎓 B.Tech – CSE (AI Specialization) | Dr. M.G.R. Educational and Research Institute, Chennai | 2022 – 2026 | Pursuing |
-| 📚 Senior Secondary | Sri Ram Dayal Khemka Vivekananda Vidyalaya Junior College, Chennai | 2020 – 2022 | — |
+| 🎓 B.Tech – CSE (AI Specialization) | Dr. M.G.R. Educational and Research Institute, Chennai | 2022 – 2026 | Completed |
 
 </div>
 
