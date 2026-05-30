@@ -70,28 +70,6 @@
 </div>
 
 
-## 📜 Certifications
-
-<div align="center">
-
-| &nbsp; | Certification | Issuing Body | Date |
-|:------:|:-------------|:-------------|:----:|
-| 🐍 | Introduction to Python | Infosys Springboard | Jul 2025 |
-| 🎨 | Introduction to UI/UX | Infosys Springboard | Mar 2026 |
-| 🔗 | Exploring the Relationship Between UI and UX Design | Infosys Springboard | Apr 2026 |
-| 🤖 | UI/UX for Chatbot & Voice Interface AI | Infosys Springboard | Apr 2026 |
-| 🌐 | Internet of Things & UI/UX | Infosys Springboard | Apr 2026 |
-| ⌚ | Wearable Technology & UI/UX | Infosys Springboard | Apr 2026 |
-
-</div>
-
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay7124&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
 ## 📬 Connect with Me
 
 <div align="center">
@@ -102,4 +80,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjay7124&color=70a5fd&style=flat-square&label=Profile+Views)
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay7124&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
