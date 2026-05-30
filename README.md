@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 🎓 &nbsp;**B.Tech CSE – AI** &nbsp;|&nbsp; Dr. M.G.R. Educational and Research Institute, Chennai &nbsp;*(2022 – 2026)*
 
