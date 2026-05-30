@@ -4,15 +4,15 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="310" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 🎓 &nbsp;**B.Tech CSE – AI** &nbsp;|&nbsp; Dr. M.G.R. Educational and Research Institute, Chennai &nbsp;*(2022 – 2026)*
 
-🤖 &nbsp;Passionate about **Artificial Intelligence, Machine Learning & Generative AI**, with hands-on experience building real-world computer vision and data intelligence systems.
+🤖 &nbsp;Passionate about **Artificial Intelligence, Machine Learning & Generative AI**, with hands-on experience building real-world intelligence systems.
 
-🔭 &nbsp;Currently developing projects in **AI, OpenCV & Streamlit dashboards** that solve practical, industry-relevant problems.
+🔭 &nbsp;Currently developing projects Using **Python Librarys & Frameworks like OpenCV, Streamlit, AI Tools** that solve practical, industry-relevant problems.
 
-🌱 &nbsp;Expanding my skills in **AI Tools, UI/UX Design, IoT & Wearable Technology** through continuous learning and Infosys Springboard certifications.
+🌱 &nbsp;Expanding my skills in **AI & AI Tools, UI/UX Design** through continuous learning.
 
 💡 &nbsp;I love transforming raw, unstructured data into **interactive dashboards and intelligent systems** that drive decisions.
 
