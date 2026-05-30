@@ -8,40 +8,17 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👨‍💻 About Me
 
-```python
-# sanjay_k.py
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-class SanjayK:
-    def __init__(self):
-        self.name        = "Sanjay K"
-        self.location    = "Chennai, Tamil Nadu, India"
-        self.degree      = "B.Tech CSE – AI Specialization (2022–2026)"
-        self.college     = "Dr. M.G.R. Educational and Research Institute"
-        self.email       = "itzmesanjay74@gmail.com"
-        self.linkedin    = "linkedin.com/in/sanjay7124"
-
-        self.stack = [
-            "Python", "OpenCV", "Scikit-learn",
-            "Streamlit", "Generative AI", "Figma"
-        ]
-
-        self.currently_learning = [
-            "Advanced Machine Learning",
-            "UI/UX Design",
-            "Internet of Things",
-            "Wearable Technology"
-        ]
-
-        self.fun_fact = "I turn raw data into interactive dashboards 📊"
-
-    def motto(self):
-        return "Passionate about technology & innovation 🚀"
-
-me = SanjayK()
-print(me.motto())
-```
+- 🎓 Fourth-year **B.Tech CSE (AI Specialization)** student at Dr. M.G.R. Educational and Research Institute, Chennai
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
+- 🔭 Currently working on real-world AI and computer vision projects
+- 🌱 Learning **UI/UX Design, IoT, and Wearable Technology**
+- 💡 I love turning raw data into interactive dashboards and intelligent systems
+- 🗣️ Languages: **English** & **Tamil**
+- 📫 Reach me at **itzmesanjay74@gmail.com**
 
 <br clear="right"/>
 
