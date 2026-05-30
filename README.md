@@ -86,28 +86,17 @@
 </div>
 
 ---
-## 🧠 Currently Learning
+## 📈 Activity Graph
 
-```
-🤖 Generative AI       → Prompt Engineering, LLM Fine-tuning, AI Tools
-🎨 UI/UX Design        → Figma Advanced, Chatbot UX, Voice Interfaces
-🌐 IoT                 → Embedded Systems, Sensor Integration, Edge AI
-⌚ Wearable Tech       → Smart Devices, Health Tech, Wearable UX
-🧱 ML Engineering      → Scikit-learn, Streamlit Dashboards, Data Pipelines
-```
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay7124&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
 
 ---
 ## 🔥 Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sanjay7124&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay7124&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -122,5 +111,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjay7124&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
