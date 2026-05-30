@@ -104,7 +104,7 @@
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
+| Degree | Institution | Year | Status |
 |:-------|:------------|:-----|:------|
 | 🎓 B.Tech – CSE (AI Specialization) | Dr. M.G.R. Educational and Research Institute, Chennai | 2022 – 2026 | Completed |
 
