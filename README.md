@@ -112,11 +112,10 @@
 
 <div align="center">
 
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-sanjay7124-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay7124)
-[![Gmail] (https://img.shields.io/badge/Gmail-itzmesanjay74@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:itzmesanjay74@gmail.com)
-[![GitHub] (https://img.shields.io/badge/GitHub-sanjay7124-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjay7124)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjay7124-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay7124)
+[![Gmail](https://img.shields.io/badge/Gmail-itzmesanjay74@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:itzmesanjay74@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sanjay7124-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjay7124)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjay7124&color=70a5fd&style=flat-square&label=Profile+Views)
-
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
