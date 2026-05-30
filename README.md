@@ -48,7 +48,7 @@
 
 ## 💼 Projects
 
-### 🔭 Real-Time Object Measurement
+### 🤖 Real-Time Object Measurement
 
 <img align="right" width="260" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVrYjVrYnQ5enpxZWUybzVqNXoxa2kwanZtcjFibXBjeDY5MXlzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1YgqxJwTFZRgU1n0pc/giphy.gif"/>
 
@@ -66,7 +66,7 @@
 
 ---
 
-### 🤖 AI-Optimized Production Data Analyzer
+### 📊 AI-Optimized Production Data Analyzer
 
 <img align="right" width="260" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
 
@@ -76,7 +76,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-- 📊 Processes up to **50,000+ records** with a robust ML pipeline
+- 🎯 Processes up to **50,000+ records** with a robust ML pipeline
 - 🔄 Auto-translates raw data streams into **interactive flowcharts & KPI dashboards**
 - 🧠 Zero configuration needed — designed for **non-technical business users**
 - 💰 Replaces costly business intelligence platforms with an open, AI-driven solution
