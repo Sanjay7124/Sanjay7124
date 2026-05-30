@@ -20,7 +20,6 @@
 
 <br clear="right"/>
 
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -46,7 +45,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
----
 
 ## 💼 Projects
 
@@ -59,7 +57,6 @@
 
 </div>
 
----
 
 ## 🎓 Education
 
@@ -72,7 +69,6 @@
 
 </div>
 
----
 
 ## 📜 Certifications
 
@@ -89,7 +85,6 @@
 
 </div>
 
----
 
 ## 📈 Activity Graph
 
@@ -97,7 +92,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay7124&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
----
 ## 📬 Connect with Me
 
 <div align="center">
