@@ -2,8 +2,6 @@
   <h1> Hi there, I'm Sanjay 👋 </h1>
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 <img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
