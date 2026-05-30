@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="310" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 🎓 &nbsp;**B.Tech CSE – AI** &nbsp;|&nbsp; Dr. M.G.R. Educational and Research Institute, Chennai &nbsp;*(2022 – 2026)*
 
@@ -67,7 +67,7 @@
 
 | &nbsp; | Degree | Institution | Period | Status |
 |:------:|:-------|:------------|:------:|:------:|
-| 🎓 | B.Tech – Computer Science Engineering *(AI Specialization)* | Dr. M.G.R. Educational and Research Institute, Chennai | 2022 – 2026 | **Pursuing** |
+| 🎓 | B.Tech – Computer Science Engineering *(AI Specialization)* | Dr. M.G.R. Educational and Research Institute, Chennai | 2022 – 2026 | **Completed** |
 | 📚 | Senior Secondary | Sri Ram Dayal Khemka Vivekananda Vidyalaya Junior College, Chennai | 2020 – 2022 | **Completed** |
 
 </div>
