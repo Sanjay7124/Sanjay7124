@@ -50,7 +50,7 @@
 
 ### 🔭 Real-Time Object Measurement
 
-<img align="right" width="260" src="https://giphy.com/gifs/artists-on-tumblr-foxadhd-MJXyZFr2cf8vm"/>
+<img align="right" width="260" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVrYjVrYnQ5enpxZWUybzVqNXoxa2kwanZtcjFibXBjeDY5MXlzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1YgqxJwTFZRgU1n0pc/giphy.gif"/>
 
 > **Automated sizing system for designers using a webcam and computer vision.**
 
