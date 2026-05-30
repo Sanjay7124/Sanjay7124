@@ -1,27 +1,31 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20CS%20Engineer%20%7C%20Building%20Intelligent%20Systems%20with%20Python%20%26%20GenAI&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sanjay+K+%F0%9F%91%8B;B.Tech+CSE+%7C+AI+Specialization;Python+%7C+Generative+AI+%7C+OpenCV;Building+Real-World+AI+Solutions" alt="Typing SVG" />
-  </a>
+  <h2>👋 Hi there, I'm Sanjay K</h2>
 </div>
 
-<br/>
+---
 
 ## 👨‍💻 About Me
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 Graduate **B.Tech CSE (AI Specialization)** student at Dr. M.G.R. Educational and Research Institute, Chennai
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
-- 🔭 Currently working on real-world AI and computer vision projects
-- 🌱 Learning **AI and AI tools, UI/UX Design, IoT and Wearable Technology**
-- 💡 I love turning raw data into interactive dashboards and intelligent systems
-- 🗣️ Languages: **English** & **Tamil**
+🎓 &nbsp;**B.Tech CSE – AI Specialization** &nbsp;|&nbsp; Dr. M.G.R. Educational and Research Institute, Chennai &nbsp;*(2022 – 2026)*
+
+🤖 &nbsp;Passionate about **Artificial Intelligence, Machine Learning & Generative AI**, with hands-on experience building real-world computer vision and data intelligence systems.
+
+🔭 &nbsp;Currently developing projects in **AI, OpenCV & Streamlit dashboards** that solve practical, industry-relevant problems.
+
+🌱 &nbsp;Expanding my skills in **AI Tools, UI/UX Design, IoT & Wearable Technology** through continuous learning and Infosys Springboard certifications.
+
+💡 &nbsp;I love transforming raw, unstructured data into **interactive dashboards and intelligent systems** that drive decisions.
+
+🗣️ &nbsp;**Languages:** English & Tamil
 
 <br clear="right"/>
 
 ---
+
 ## 🛠️ Tech Stack & Tools
 
 **Languages**
@@ -47,45 +51,50 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
-## 💼 Projects
+
+## 💼 Featured Projects
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [🔭 Real-Time Object Measurement](https://github.com/sanjay7124) | Python, OpenCV | Automated system to measure length & width of physical objects or 2D canvases using a webcam; designed for designers needing quick, accurate real-world measurements |
-| [🤖 AI-Optimized Production Data Analyzer](https://github.com/sanjay7124) | Python, Scikit-learn, Streamlit | Scalable zero-config AI framework processing **50,000+ records**; auto-translates raw data streams into interactive flowcharts and intelligent KPI dashboards, replacing expensive BI platforms |
+| &nbsp; | Project | Tech Stack | Key Highlights |
+|:------:|:--------|:-----------|:---------------|
+| 🔭 | **[Real-Time Object Measurement](https://github.com/sanjay7124)** | Python · OpenCV | Automated measurement of length & width of physical objects or 2D canvases via webcam; purpose-built for designers needing fast, accurate real-world sizing |
+| 🤖 | **[AI-Optimized Production Data Analyzer](https://github.com/sanjay7124)** | Python · Scikit-learn · Streamlit | Zero-config AI framework capable of processing **50,000+ records**; converts raw data streams into interactive flowcharts and KPI dashboards, replacing costly BI platforms |
 
 </div>
 
 ---
+
 ## 🎓 Education
 
 <div align="center">
 
-| Degree | Institution | Year | Status |
-|:-------|:------------|:-----|:------|
-| 🎓 B.Tech – CSE (AI Specialization) | Dr. M.G.R. Educational and Research Institute, Chennai | 2022 – 2026 | Completed |
+| &nbsp; | Degree | Institution | Period | Status |
+|:------:|:-------|:------------|:------:|:------:|
+| 🎓 | B.Tech – Computer Science Engineering *(AI Specialization)* | Dr. M.G.R. Educational and Research Institute, Chennai | 2022 – 2026 | **Pursuing** |
+| 📚 | Senior Secondary | Sri Ram Dayal Khemka Vivekananda Vidyalaya Junior College, Chennai | 2020 – 2022 | **Completed** |
 
 </div>
 
 ---
+
 ## 📜 Certifications
 
 <div align="center">
 
-| 🏅 | Certification | Issuer | Year |
-|:--:|:-------------|:-------|:-----|
-| 🐍 | Introduction to Python | Infosys Springboard | July 2025 |
-| 🎨 | Introduction to UI/UX | Infosys Springboard | March 2026 |
-| 🔗 | Exploring the Relationship Between UI and UX Design | Infosys Springboard | April 2026 |
-| 🤖 | UI/UX for Chatbot & Voice Interface AI | Infosys Springboard | April 2026 |
-| 🌐 | Internet of Things & UI/UX | Infosys Springboard | April 2026 |
-| ⌚ | Wearable Technology & UI/UX | Infosys Springboard | April 2026 |
+| &nbsp; | Certification | Issuing Body | Date |
+|:------:|:-------------|:-------------|:----:|
+| 🐍 | Introduction to Python | Infosys Springboard | Jul 2025 |
+| 🎨 | Introduction to UI/UX | Infosys Springboard | Mar 2026 |
+| 🔗 | Exploring the Relationship Between UI and UX Design | Infosys Springboard | Apr 2026 |
+| 🤖 | UI/UX for Chatbot & Voice Interface AI | Infosys Springboard | Apr 2026 |
+| 🌐 | Internet of Things & UI/UX | Infosys Springboard | Apr 2026 |
+| ⌚ | Wearable Technology & UI/UX | Infosys Springboard | Apr 2026 |
 
 </div>
 
 ---
+
 ## 📈 Activity Graph
 
 <div align="center">
@@ -93,6 +102,7 @@
 </div>
 
 ---
+
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -100,6 +110,7 @@
 </div>
 
 ---
+
 ## 📬 Connect with Me
 
 <div align="center">
@@ -111,4 +122,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjay7124&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
