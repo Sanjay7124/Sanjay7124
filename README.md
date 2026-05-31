@@ -4,8 +4,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 🎓 &nbsp;**B.Tech CSE – AI** &nbsp;|&nbsp; Dr. M.G.R. Educational and Research Institute, Chennai &nbsp;*(2022 – 2026)*
 
 🤖 &nbsp;Passionate about **Artificial Intelligence, Machine Learning & Generative AI**, with hands-on experience building real-world intelligence systems.
