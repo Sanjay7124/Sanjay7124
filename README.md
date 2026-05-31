@@ -1,6 +1,4 @@
-<div align="center">
-  <h1> Hi there, I'm Sanjay 👋 </h1>
-</div>
+<h1 align="center">Hi there, I'm Sanjay 👋</h1>
 
 ## 👨‍💻 About Me
 
